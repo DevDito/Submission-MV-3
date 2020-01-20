@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">expertSub3</string>
+    <string name="title">Judul</string>
+    <string name="title_activity_main">Katalog Film</string>
+    <string name="vote">Memilih</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="tab_tv_shows">Acara TV</string>
+    <string name="tab_movies">Film</string>
+    <string name="failure">Kegagalan</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="asal_bahasa">Asal Bahasa</string>
+</resources>
